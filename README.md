@@ -31,7 +31,7 @@ The purpose of this project is to explain the process of setting up Active Direc
 - Create an additional users and attempt to log into client-1 with one of the users
 
 
-<h2>Prerequisits</h2>
+<h2>Prerequisites</h2>
 
 - Microsoft Azure Subscription
 - Creation of the following
